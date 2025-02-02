@@ -18,8 +18,8 @@ This is a Laravel-based Bus Booking Management API that allows users to book bus
 ### **1️⃣ Clone the Repository**
 
 ```bash
-git clone
-cd
+git clone git@github.com:BishoyEhab75/Bus-Booking-Management-API.git
+cd Bus-Booking-Management-API
 ```
 
 ### **2️⃣ Install Dependencies**
